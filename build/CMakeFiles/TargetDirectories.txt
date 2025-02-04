@@ -1,0 +1,3 @@
+/home/draker/personal_projects/motion_project/build/CMakeFiles/motion.dir
+/home/draker/personal_projects/motion_project/build/CMakeFiles/edit_cache.dir
+/home/draker/personal_projects/motion_project/build/CMakeFiles/rebuild_cache.dir

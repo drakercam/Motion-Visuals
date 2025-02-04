@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/draker/personal_projects/motion_project/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/motion.dir/main.cpp.o -c /home/draker/personal_projects/motion_project/main.cpp",
+  "file": "/home/draker/personal_projects/motion_project/main.cpp"
+},
+{
+  "directory": "/home/draker/personal_projects/motion_project/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/motion.dir/controller.cpp.o -c /home/draker/personal_projects/motion_project/controller.cpp",
+  "file": "/home/draker/personal_projects/motion_project/controller.cpp"
+},
+{
+  "directory": "/home/draker/personal_projects/motion_project/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/motion.dir/motion.cpp.o -c /home/draker/personal_projects/motion_project/motion.cpp",
+  "file": "/home/draker/personal_projects/motion_project/motion.cpp"
+},
+{
+  "directory": "/home/draker/personal_projects/motion_project/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/motion.dir/menu.cpp.o -c /home/draker/personal_projects/motion_project/menu.cpp",
+  "file": "/home/draker/personal_projects/motion_project/menu.cpp"
+},
+{
+  "directory": "/home/draker/personal_projects/motion_project/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/motion.dir/player.cpp.o -c /home/draker/personal_projects/motion_project/player.cpp",
+  "file": "/home/draker/personal_projects/motion_project/player.cpp"
+},
+{
+  "directory": "/home/draker/personal_projects/motion_project/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/motion.dir/view.cpp.o -c /home/draker/personal_projects/motion_project/view.cpp",
+  "file": "/home/draker/personal_projects/motion_project/view.cpp"
+}
+]
